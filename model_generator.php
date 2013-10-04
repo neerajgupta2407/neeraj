@@ -4,6 +4,7 @@
 /***
 *parameters: table_name
 *pk=primary key of table 'table_name'
+test
 **/
 
 ini_set('display_errors', '1');
